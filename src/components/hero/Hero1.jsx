@@ -1,7 +1,7 @@
 import { Canvas } from "@react-three/fiber";
 import "./hero.css";
 import Speech from "./Speech";
-import { motion } from "motion/react";
+import { motion } from "framer-motion";
 import Shape from "./Shape";
 import { Suspense } from "react";
 
@@ -37,7 +37,7 @@ const followVariants = {
 
 const Hero = () => {
   return (
-    <div className="hero">
+    <div className="hero1">
       <div className="hSection left">
         {/* TITLE */}
         <motion.h1

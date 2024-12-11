@@ -3,7 +3,7 @@ import lcpc from "../assets/images/lcpc.png"
 
 const LCPC2 = () => {
   return (
-    <div className='custom-bg-color my-3 mx-3 rounded-3'>
+    <div className=' my-3 mx-3 rounded-3'>
 
       <div className="px-4 py-3 container  col-xxl-8" style={{ paddingLeft: "100px", paddingRight: "100px" }}>
         <div className="row flex-lg-row align-items-center g-5 py-5">
