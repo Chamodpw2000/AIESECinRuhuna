@@ -30,7 +30,7 @@ const Functions = () => {
               type="button"
               className="btn btn-primary btn-lg custom-hover"
               style={buttonStyle}
-              onClick={() => navigate('/apply')}
+              onClick={() => navigate('/igvb2bnvd')}
             >
               iGV B2B & VD
             </button>
@@ -40,7 +40,7 @@ const Functions = () => {
               type="button"
               className="btn btn-primary btn-lg custom-hover"
               style={buttonStyle}
-              onClick={() => navigate('/apply')}
+              onClick={() => navigate('/igvmnir')}
             >
               iGV M & IR
             </button>
@@ -50,7 +50,7 @@ const Functions = () => {
               type="button"
               className="btn btn-primary btn-lg custom-hover"
               style={buttonStyle}
-              onClick={() => navigate('/apply')}
+              onClick={() => navigate('/igtb2bnvd')}
             >
               iGT B2B & VD
             </button>
@@ -60,7 +60,7 @@ const Functions = () => {
               type="button"
               className="btn btn-primary btn-lg custom-hover"
               style={buttonStyle}
-              onClick={() => navigate('/apply')}
+              onClick={() => navigate('/igtmnir')}
             >
               iGT M & IR
             </button>
@@ -74,7 +74,7 @@ const Functions = () => {
               type="button"
               className="btn btn-primary btn-lg custom-hover"
               style={buttonStyle}
-              onClick={() => navigate('/apply')}
+              onClick={() => navigate('/ogvb2c')}
             >
               oGV B2C
             </button>
@@ -84,7 +84,7 @@ const Functions = () => {
               type="button"
               className="btn btn-primary btn-lg custom-hover"
               style={buttonStyle}
-              onClick={() => navigate('/apply')}
+              onClick={() => navigate('/ogvps')}
             >
               OGV PS
             </button>
@@ -94,7 +94,7 @@ const Functions = () => {
               type="button"
               className="btn btn-primary btn-lg custom-hover"
               style={buttonStyle}
-              onClick={() => navigate('/apply')}
+              onClick={() => navigate('/ogtb2c')}
             >
               OGT B2C
             </button>
@@ -104,7 +104,7 @@ const Functions = () => {
               type="button"
               className="btn btn-primary btn-lg custom-hover"
               style={buttonStyle}
-              onClick={() => navigate('/apply')}
+              onClick={() => navigate('/ogtps')}
             >
               OGT PS
             </button>
@@ -121,7 +121,7 @@ const Functions = () => {
               type="button"
               className="btn btn-primary btn-lg custom-hover"
               style={buttonStyle}
-              onClick={() => navigate('/apply')}
+              onClick={() => navigate('/mkt')}
             >
               MKT
             </button>
@@ -131,7 +131,7 @@ const Functions = () => {
               type="button"
               className="btn btn-primary btn-lg custom-hover"
               style={buttonStyle}
-              onClick={() => navigate('/apply')}
+              onClick={() => navigate('/pm')}
             >
               TM
             </button>
@@ -141,7 +141,7 @@ const Functions = () => {
               type="button"
               className="btn btn-primary btn-lg custom-hover"
               style={buttonStyle}
-              onClick={() => navigate('/apply')}
+              onClick={() => navigate('/bd')}
             >
               BD
             </button>
@@ -151,7 +151,7 @@ const Functions = () => {
               type="button"
               className="btn btn-primary btn-lg custom-hover"
               style={buttonStyle}
-              onClick={() => navigate('/apply')}
+              onClick={() => navigate('/fnl')}
             >
               F&L
             </button>
@@ -161,7 +161,7 @@ const Functions = () => {
               type="button"
               className="btn btn-primary btn-lg custom-hover"
               style={buttonStyle}
-              onClick={() => navigate('/apply')}
+              onClick={() => navigate('/pr')}
             >
               PR
             </button>
@@ -171,7 +171,7 @@ const Functions = () => {
               type="button"
               className="btn btn-primary btn-lg custom-hover"
               style={buttonStyle}
-              onClick={() => navigate('/apply')}
+              onClick={() => navigate('/em')}
             >
               EM
             </button>
