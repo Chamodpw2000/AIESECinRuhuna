@@ -1,0 +1,61 @@
+
+.hero {
+    background-image: url('../assets/images/MainHero.jpg'); /* Ensure this path is correct */
+    background-size: cover; /* Ensures the background image covers the whole section */
+    background-position: center; /* Centers the background image */
+    background-repeat: no-repeat; /* Prevents the background image from repeating */
+    padding: 20px 0; /* Adds padding to the top and bottom */
+    color: white; /* Changes text color to white for better readability */
+  }
+
+
+  .container1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+.content {
+    background-color: rgba(0, 0, 100, 0.7); /* Dark blue with 70% opacity */
+    padding: 10px;
+    border-radius: 10px; /* Optional: Rounded corners */
+    color: #fff; /* Text color */
+    font-size: 25px; /* Increase text size to 18 pixels */
+  
+  }
+
+
+  .custom-hover {
+    background-color: #007bff; /* Initial Blue color */
+    color: white; /* Text color white */
+    border: none;
+    transition: background-color 0.3s ease, color 0.3s ease; /* Smooth transition */
+  }
+  
+  .custom-hover:hover {
+    background-color: #cce5ff; /* Light Blue on hover */
+    color: #0d00ff; /* Text remains white */
+  }
+  .d-flex {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .flex-50 {
+    width: 50%;
+  }
+
+
+
+
+  .custom-bg-color {
+    background-image: url('../assets/images/splash.png'); /* Adjust the path to your image */
+    background-size: cover; /* Ensures the image covers the full area */
+    background-position: center; /* Centers the background image */
+    background-repeat: no-repeat; /* Prevents image repetition */
+  }
+  
+  
+  
